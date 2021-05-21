@@ -27,7 +27,6 @@ app=Flask(__name__)
 
 
 app.secret_key = 'a'
-SENDGRID_API_KEY = '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'
   
 app.config['MYSQL_HOST'] = 'remotemysql.com'
 app.config['MYSQL_USER'] = 'f1j5uhNAmw'
