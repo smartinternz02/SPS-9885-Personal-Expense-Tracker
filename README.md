@@ -14,4 +14,7 @@ Use SPENDO in 6 simple steps:
 5. View your expenditure in graphical form
 6. Download your expenditure list or get it in Email
 
+Application URL - https://spendo-expense-tracker.apps.pcfdev.in/
+Video Demonstration - https://drive.google.com/file/d/1Auy1vRWjBhOWo56HrNW9LzJxW6kcQ33Y/view?usp=sharing
+
 ![Telecom-Personal Expense Tracker](https://user-images.githubusercontent.com/67627185/118995748-0506b480-b9a5-11eb-80eb-5bd9d90bbb4b.png)
