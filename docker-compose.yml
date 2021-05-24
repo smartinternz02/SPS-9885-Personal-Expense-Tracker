@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  expensemain:
+    image: expensemain-final
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8080:8080
+    
